@@ -1,7 +1,7 @@
 # Semantic Release
 Geração de versões com changelog de forma automatizada.
 
-*IMPORTANTE*: Caso seu projeto esteja sem versionamento, coloque a versão no package.json como: *0.0.0*
+**IMPORTANTE**: Caso seu projeto esteja sem versionamento, coloque a versão no package.json como: *0.0.0*
 
 ## Como configurar um projeto
 
